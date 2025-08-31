@@ -1,0 +1,8 @@
+{"question": "что такое CTR?", "gold_phrases": ["CTR", "показатель кликабельности"]}
+{"question": "что такое CPC?", "gold_phrases": ["CPC", "цена за клик"]}
+{"question": "что такое CPM?", "gold_phrases": ["CPM", "стоимость за тысячу показов"]}
+{"question": "что такое ROI?", "gold_phrases": ["ROI", "окупаемость инвестиций"]}
+{"question": "что такое CAC?", "gold_phrases": ["CAC", "стоимость привлечения клиента"]}
+{"question": "что такое LTV?", "gold_phrases": ["LTV", "суммарная прибыль"]}
+{"question": "что такое 'Импрессия'?", "gold_phrases": ["Импрессия", "показ объявления"]}
+{"question": "что такое 'Конверсия'?", "gold_phrases": ["Конверсия", "целевое действие"]}
