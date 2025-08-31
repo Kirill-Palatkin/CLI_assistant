@@ -68,3 +68,9 @@
 - `docs/` – директория с исходными документами (FAQ, glossary, metrics и т.д.).
 - `tests/fixtures/questions.jsonl` – тестовый набор вопросов для проверки точности ассистента.
 - `index.pkl` – готовый TF-IDF индекс документов, создается после запуска `index.py`.
+
+## Пример работы ассистента
+<img width="1812" height="601" alt="111" src="https://github.com/user-attachments/assets/3b173192-058f-45f4-8dd0-cfd158aa26f9" />
+<img width="1828" height="574" alt="222" src="https://github.com/user-attachments/assets/cdc1eecc-a1fc-467c-9c73-4f9f80153d0e" />
+
+
