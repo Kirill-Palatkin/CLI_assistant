@@ -71,12 +71,14 @@
 
 ## Пример работы ассистента
 <img width="1812" height="601" alt="111" src="https://github.com/user-attachments/assets/3b173192-058f-45f4-8dd0-cfd158aa26f9" />
-*`USE_LLM=1`*
+**`USE_LLM=1`**
+
 
 <img width="1828" height="574" alt="222" src="https://github.com/user-attachments/assets/cdc1eecc-a1fc-467c-9c73-4f9f80153d0e" />
-*`USE_LLM=0`*
+**`USE_LLM=0`**
+
 
 <img width="1338" height="848" alt="333" src="https://github.com/user-attachments/assets/afa7f692-f992-4eb2-81fe-937e14983f88" />
-*`Автоматический запуск тестовых вопросов и сравнение с эталонными ответами`*
+**`Автоматический запуск тестовых вопросов и сравнение с эталонными ответами`**
 
 
